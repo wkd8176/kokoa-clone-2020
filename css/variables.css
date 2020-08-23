@@ -1,0 +1,11 @@
+:root {
+  --yellow: #fbe200;
+  --gray: #dadada;
+  --gray-selected: #9f9f9f;
+  --gray-login-form-btn-box: #f6f6f6;
+  --gray-nav-bar: #f9f9fa;
+  --gray-text: #a9a9a9;
+  --noti-color: #ff6229;
+  --horizontal-space: 25px;
+  --main-border: 1px solid #e8e8e8;
+}

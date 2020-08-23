@@ -1,0 +1,39 @@
+.badge {
+  background-color: var(--noti-color);
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.badge__chat,
+.nav-badge__chat {
+  width: 27px;
+  height: 27px;
+  color: white;
+  font-weight: 600;
+  left: 20px;
+  top: -20px;
+}
+.badge__find {
+  width: 7px;
+  height: 7px;
+  left: 30px;
+  top: -15px;
+}
+.badge__find--cog {
+  position: relative;
+  left: 90px;
+  top: -30px;
+}
+.badge__more--cog {
+  position: relative;
+  left: 155px;
+  top: -30px;
+}
+.badge_settings {
+  width: 22px;
+  height: 22px;
+  color: white;
+  font-size: 13px;
+  font-weight: 800;
+}

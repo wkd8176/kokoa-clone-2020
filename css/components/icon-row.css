@@ -1,0 +1,45 @@
+.icon-row {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 35px;
+  padding: 0px 15px;
+}
+
+.icon-row__icon {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.icon-row__icon i {
+  font-size: 35px;
+  margin-bottom: 30px;
+}
+.icon-row__address-book i {
+  margin-bottom: 20px;
+}
+.icon-row__icon h4 {
+  font-size: 20px;
+}
+
+.icon-row__icon h4:nth-child(2) {
+  margin-bottom: 5px;
+}
+
+.main-screen__more .icon-row h4 {
+  font-size: 17px;
+}
+.main-screen__more .icon-row__icon i {
+  font-size: 37px;
+  margin-bottom: 17px;
+}
+
+.main-screen__more .icon-row {
+  padding: 0px 20px;
+}
+.main-screen__more .icon-row:nth-child(2) {
+  justify-content: flex-start;
+  margin-top: 55px;
+}
+.main-screen__more .icon-row:nth-child(2) .icon-row__icon {
+  margin-right: 70px;
+}
